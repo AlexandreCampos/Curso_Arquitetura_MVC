@@ -8,7 +8,7 @@ Manipular (inserir, buscar) dados de veículos em um Banco de Dados, utilizando 
  - DAO = Camada para armazenar os objetos
 
 Camada View - 2 exemplos:
- - UIConsole = pelas Telas, Interfaces Gráficas, etc
+ - UIConsole = Telas, Interfaces Gráficas, etc
  - CallService = WebService
     
 O mais importante é o modelo de desenvolvimento em 3 camadas.
